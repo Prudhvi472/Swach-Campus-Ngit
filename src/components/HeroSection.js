@@ -38,32 +38,7 @@ function HeroSection() {
   );
 }
 
-// module.exports = async function(){
-  //   export default he
-  //   return flightNumber;
-  // }
-  
-  
-  {/* <Imgs /> */}
-  {/* <button className='final-btn'>Create Ticket</button> */}
 
 
 export default HeroSection;
 
-{/* <Button
-className='btns'
-buttonStyle='btn--primary'
-buttonSize='btn--large'
-onClick={console.log('hey')}
->
-Input Here
-</Button>
-<Button
-className='btns-submit'
-buttonStyle='btn--primary'
-buttonSize='btn--large'
-onClick={console.log('hey')}
->
-Submit
-</Button> */}
-{/* <button onClick={} */}
